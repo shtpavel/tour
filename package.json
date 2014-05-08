@@ -1,0 +1,31 @@
+{
+  "name": "tour",
+  "version": "0.0.0",
+  "description": "tour\r ====",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shtpavel/tour.git"
+  },
+  "keywords": [
+    "tour",
+    "geo",
+    "service",
+    "node",
+    "express",
+    "js"
+  ],
+  "author": "Pavel Shtanko <shtpavel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shtpavel/tour/issues"
+  },
+  "homepage": "https://github.com/shtpavel/tour",
+  "dependencies": {
+    "express": "^4.1.1",
+    "mongoose": "^3.8.8"
+  }
+}
